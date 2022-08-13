@@ -1,0 +1,17 @@
+h1 {
+    color: rgb(241, 119, 139);
+}
+/*Classes*/
+.Sub1 {
+    background-color: rgb(173, 39, 39);
+    text-align: center;
+    color: white;
+    font-size: 20px;
+
+}
+.Sub2 {
+    background-color: rgba(39, 4, 4, 0.938);
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
